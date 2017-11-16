@@ -1,0 +1,16 @@
+@import "components/normalize";
+@import "components/variables";
+@import "components/mixins";
+@import "components/fonts";
+
+
+
+body{
+	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+.img-responsive{
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
