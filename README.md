@@ -1,11 +1,14 @@
-<h2>How to use</h2>
+<h2>Link to the site:</h2>
+<p>https://oleksandrlz.github.io/bootstrap/dist/</p>
+
+<h3>How to use</h3>
 
 <ol>
 	<li>Install Node Modules: <strong>npm i</strong>;</li>
 	<li>Run the template: <strong>gulp</strong>.</li>
 </ol>
 
-<h2>Gulp tasks:</h2>
+<h3>Gulp tasks:</h3>
 
 <ul>
 	<li><strong>gulp</strong>: run default gulp task (sass, js, watch, browserSync) for web development;</li>
