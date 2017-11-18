@@ -1,4 +1,3 @@
-// Mixins
 // Background Cover Mixin
 @mixin background-cover {
   -webkit-background-size: cover;
@@ -8,6 +7,6 @@
 }
 
 // Font Mixins
-@mixin body-font {
+@mixin main-font {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }

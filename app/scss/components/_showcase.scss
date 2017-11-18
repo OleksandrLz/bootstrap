@@ -1,0 +1,19 @@
+.showcase {
+  .showcase-text {
+    padding: 3rem;
+  }
+  .showcase-img {
+    min-height: 30rem;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  &-img-item1{
+    background-image: url('../img/bg-showcase.jpg');
+  }
+  &-img-item2{
+    background-image: url('../img/bg-showcase-2.jpg');
+  }
+  &-img-item3{
+    background-image: url('../img/bg-showcase-3.jpg');
+  }
+}
