@@ -5,6 +5,9 @@
   @include background-cover;
   padding-top: 7rem;
   padding-bottom: 7rem;
+  h2{
+    text-shadow: -1px 1px $gray-800;
+  }
   .overlay {
     position: absolute;
     background-color: $gray-900;

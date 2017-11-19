@@ -16,6 +16,7 @@
   }
   h1 {
     font-size: 2rem;
+    text-shadow: -1px 1px $gray-800;
   }
   @media (min-width: 768px) {
     padding-top: 12rem;
